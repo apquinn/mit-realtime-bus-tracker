@@ -16,6 +16,6 @@ Support can be found by contacting me at apquinn@gmail.com
 
 MIT open source.
 
-#### Future plans
+#### Roadmap of future improvements
 
 No future plans exist for this application at this time.
